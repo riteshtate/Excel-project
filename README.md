@@ -44,3 +44,6 @@ The objective of this project is to analyze sales data, identify useful business
 
 ## Conclusion
 This project demonstrates how Microsoft Excel can be used to analyze retail sales data and transform raw data into meaningful business insights through an interactive dashboard.
+## Dashboard Preview
+
+![Excel Dashboard](Screenshot 2026-10-28 092428.png)
